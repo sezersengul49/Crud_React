@@ -1,0 +1,68 @@
+{
+  "todos": [
+    {
+      "id": "6523dfdf-7002-482b-bb02-0bd8638a5e81",
+      "title": "react",
+      "status": "daily",
+      "date": "16.03.2024"
+    },
+    {
+      "id": "7b6338d0-b76a-41f9-8ff9-be710cb11847",
+      "title": "react",
+      "status": "important",
+      "date": "16.03.2024"
+    }
+  ],
+  "activity": [
+    {
+      "id": "266",
+      "info": "hesap inceleme altında",
+      "date": "12/01/2024"
+    },
+    {
+      "id": "267",
+      "info": "hesap aktif",
+      "date": "12/04/2024"
+    },
+    {
+      "id": "268",
+      "info": "ödeme sorunu",
+      "date": "12/07/2024"
+    },
+    {
+      "id": "269",
+      "info": "şifre yenileme gerekiyor",
+      "date": "12/10/2024"
+    },
+    {
+      "id": "270",
+      "info": "hesap donduruldu",
+      "date": "12/13/2024"
+    },
+    {
+      "id": "271",
+      "info": "güvenlik uyarısı",
+      "date": "12/16/2024"
+    },
+    {
+      "id": "272",
+      "info": "hesap onaylandı",
+      "date": "12/19/2024"
+    },
+    {
+      "id": "273",
+      "info": "hesap kurtarma işlemi",
+      "date": "12/22/2024"
+    },
+    {
+      "id": "274",
+      "info": "kullanıcı adı değişikliği",
+      "date": "12/25/2024"
+    },
+    {
+      "id": "275",
+      "info": "abonelik iptali",
+      "date": "12/28/2024"
+    }
+  ]
+}
